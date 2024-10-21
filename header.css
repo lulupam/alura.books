@@ -3,6 +3,8 @@
     height: 24px;
     display: inline-block;
     background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
     background-image: url("img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
